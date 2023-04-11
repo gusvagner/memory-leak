@@ -1,4 +1,9 @@
-# MemoryLeak
+# What is a Memory Leak?
+
+Is when your program manages incorrectly the memory and uses more memory than is required.
+
+
+## Angular description
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
 
